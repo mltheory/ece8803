@@ -27,7 +27,6 @@ Upon successful completion of this course, students will be able to:
 
 
 
-**Coursework:** There will be 5 problem sets throughout the semester.
 
 **Grade Breakdown:**
 * 45% - *Homeworks*
@@ -40,7 +39,7 @@ Upon successful completion of this course, students will be able to:
 
 
 ### Lecture Notes
-Please refer to [Vidya's couraw website](https://vmuthukumar.ece.gatech.edu/teaching-advising/ece-8803-online-decision-making-in-machine-learning-fall-2022/) for first 8 lecture notes.
+Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teaching-advising/ece-8803-online-decision-making-in-machine-learning-fall-2022/) for first 8 lecture notes.
 
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |

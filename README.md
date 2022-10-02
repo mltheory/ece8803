@@ -44,7 +44,26 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
 | [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Online Linear Opitmizization, FTRL |
-| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2019 | FTRL, Online Convex Optimization |
+| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2022 | FTRL, Online Convex Optimization |
+|   | 04 Oct 2022 | Adaptive Online Convex Optimization |
+|   | 06 Oct 2022 | Stochastic Optimization + Applications |
+|   | 11 Oct 2022 | Game Theory I |
+|   | 13 Oct 2022 | Game Theory II |
+|   | 18 Oct 2022 | FALL BREAK NO CLASS |
+|   | 20 Oct 2022 | Introduction to Limited Feedback |
+|   | 25 Oct 2022 | UCB I |
+|   | 27 Oct 2022 | UCB II |
+|   | 01 Nov 2022 | EXP3 |
+|   | 03 Nov 2022 | EXP4  |
+|   | 08 Nov 2022 | Bandit Lower Bounds |
+|   | 10 Nov 2022 | Structured Bandits (GPs?) |
+|   | 15 Nov 2022 | Contextual Bandits |
+|   | 17 Nov 2022 | Reinforcement Learning |
+|   | 22 Nov 2022 | Reinforcement Learning |
+|   | 24 Nov 2022 | THANKSGIVING NO CLASS |
+|   | 29 Nov 2022 | Reinforcement Learning |
+|   | 01 Dec 2022 | Reinforcement Learning |
+|   | 06 Dec 2022 | POSTER SESSION |
 
 
 ### Homeworks
@@ -52,6 +71,9 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | Homework | Due Date  | Self -grade due date
 | :------------: |:-------------: | :-------------: |
 |[Homework 1](./hw/hw1.pdf) | 14 Sep | 21 Sep | 
+|[Homework 2]() | 19 Oct | 26 Oct | 
+|[Homework 3]() | 16 Nov | 23 Nov | 
+|[Homework 4]() | 30 Nov | 7 Dec | 
 
 
 

@@ -7,7 +7,7 @@
     - Jacob Abernethy
     - Bhuvesh Kumar
     - Guanghui Wang 
-* **Course Timelace:** Tuesday and Thursday, 2 – 3:15 pm
+* **Course Time:** Tuesday and Thursday, 2 – 3:15 pm
 * **Course Place:** Whitaker building, room 1103
 
 

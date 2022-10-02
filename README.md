@@ -49,8 +49,10 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 
 ### Homeworks
 
-| Homework | Due Date  | 
-| :------------: |:-------------: |
+| Homework | Due Date  | Self -grade due date
+| :------------: |:-------------: | :-------------: |
+|[Homework 1](./hw/hw1.pdf) | 14 Sep | 21 Sep | 
+
 
 
 

@@ -44,7 +44,7 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | Lecture | Date  | Topic |
 | :------------: |:-------------: |:-------------: |
 | [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Online Linear Opitmizization, FTRL |
-| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2019 | FTRl, Online Convex Optimization |
+| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2019 | FTRL, Online Convex Optimization |
 
 
 ### Homeworks

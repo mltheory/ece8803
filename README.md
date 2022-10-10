@@ -45,7 +45,7 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | :------------: |:-------------: |:-------------: |
 | [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Online Linear Opitmizization, FTRL |
 | [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2022 | FTRL, Online Convex Optimization |
-|   | 04 Oct 2022 | Adaptive OCO I |
+|  [11](./lectures/Lecture11_Oct4.pdf)  | 04 Oct 2022 | Adaptive OCO I |
 |   | 06 Oct 2022 | Adaptive OCO II + Online-to-Batch |
 |   | 11 Oct 2022 | Game Theory I |
 |   | 13 Oct 2022 | Game Theory II |

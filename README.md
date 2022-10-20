@@ -71,7 +71,7 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | Homework | Due Date  | Self -grade due date | 
 | :------------: |:-------------: | :-------------: |  
 |[Homework 1](./hw/HW1.pdf) | 14 Sep | 4 Oct |    
-|[Homework 2](./hw/HW2.pdf), [ipynb](./hw/hw2.ipynb), [Answer](./hw/HW2/HW2-answer.zip) | 19 Oct | 26 Oct |     
+|[Homework 2](./hw/HW2.pdf), [ipynb](./hw/hw2.ipynb), [Answer](./hw/HW2-answer.zip) | 19 Oct | 26 Oct |     
 | Homework 3 | 16 Nov | 23 Nov |     
 | Homework 4 | 30 Nov | 7 Dec |    
 

@@ -41,29 +41,29 @@ Upon successful completion of this course, students will be able to:
 ### Lecture Notes
 Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teaching-advising/ece-8803-online-decision-making-in-machine-learning-fall-2022/) for first 8 lecture notes.
 
-| Lecture | Date  | Topic |
+| Notes| Date | Lecturer | Topic |
 | :------------: |:-------------: |:-------------: |
-| [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Online Linear Opitmizization, FTRL |
-| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2022 | FTRL, Online Convex Optimization |
-|  [11](./lectures/Lecture11_Oct4.pdf)  | 04 Oct 2022 | Adaptive OCO I |
-| [12](./lectures/Lecture12_Oct6.pdf)  | 06 Oct 2022 | Adaptive OCO II + Online-to-Batch |
-|   | 11 Oct 2022 | Game Theory I |
-|   | 13 Oct 2022 | Game Theory II |
-|   | 18 Oct 2022 | FALL BREAK NO CLASS |
-|   | 20 Oct 2022 | Introduction to Limited Feedback |
-|   | 25 Oct 2022 | UCB I |
-|   | 27 Oct 2022 | UCB II |
-|   | 01 Nov 2022 | EXP3 |
-|   | 03 Nov 2022 | EXP4  |
-|   | 08 Nov 2022 | Bandit Lower Bounds |
-|   | 10 Nov 2022 | Structured Bandits (GPs?) |
-|   | 15 Nov 2022 | Contextual Bandits |
-|   | 17 Nov 2022 | Reinforcement Learning |
-|   | 22 Nov 2022 | Reinforcement Learning |
-|   | 24 Nov 2022 | THANKSGIVING NO CLASS |
-|   | 29 Nov 2022 | Reinforcement Learning |
-|   | 01 Dec 2022 | Reinforcement Learning |
-|   | 06 Dec 2022 | POSTER SESSION |
+| [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Kumar | Online Linear Opitmizization, FTRL |
+| [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2022 | Kumar | FTRL, Online Convex Optimization |
+|  [11](./lectures/Lecture11_Oct4.pdf)  | 04 Oct 2022 | Wang | Adaptive OCO I |
+| [12](./lectures/Lecture12_Oct6.pdf)  | 06 Oct 2022 | Wang | Adaptive OCO II + Online-to-Batch |
+|   | 11 Oct 2022 | Abernethy |  OCO Applications |
+|   | 13 Oct 2022 | Abernethy |  Game Theory |
+|   | 18 Oct 2022 |  |  FALL BREAK NO CLASS |
+|   | 20 Oct 2022 | Kumar |  Introduction to Limited Feedback |
+|   | 25 Oct 2022 | Kumar |  UCB I |
+|   | 27 Oct 2022 | Wang |  UCB II |
+|   | 01 Nov 2022 | Wang | Bandit Lower Bounds |
+|   | 03 Nov 2022 | Abernethy |  EXP3  |
+|   | 08 Nov 2022 | Abernethy |  EXP4  |
+|   | 10 Nov 2022 | Wang |  Structured Bandits (GPs?) |
+|   | 15 Nov 2022 | Wang |  Contextual Bandits |
+|   | 17 Nov 2022 | Abernethy |  Reinforcement Learning |
+|   | 22 Nov 2022 | Abernethy |  Reinforcement Learning |
+|   | 24 Nov 2022 |  |  THANKSGIVING NO CLASS |
+|   | 29 Nov 2022 | Kumar |  Reinforcement Learning |
+|   | 01 Dec 2022 | Kumar |  Reinforcement Learning |
+|   | 06 Dec 2022 |  |  POSTER SESSION |
 
 
 ### Homeworks

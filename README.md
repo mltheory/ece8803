@@ -42,7 +42,7 @@ Upon successful completion of this course, students will be able to:
 Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teaching-advising/ece-8803-online-decision-making-in-machine-learning-fall-2022/) for first 8 lecture notes.
 
 | Notes| Date | Lecturer | Topic |
-| :------------: |:-------------: |:-------------: |
+| :------------: |:-------------: |:-------------: | :-------------: |
 | [9](./lectures/Lecture9_Sep27.pdf)  | 27 Sep 2022 | Kumar | Online Linear Opitmizization, FTRL |
 | [10](./lectures/Lecture10_Sep29.pdf)  | 29 Sep 2022 | Kumar | FTRL, Online Convex Optimization |
 |  [11](./lectures/Lecture11_Oct4.pdf)  | 04 Oct 2022 | Wang | Adaptive OCO I |

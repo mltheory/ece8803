@@ -50,8 +50,8 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 |   | 11 Oct 2022 | Abernethy |  OCO Applications |
 |   | 13 Oct 2022 | Abernethy |  Game Theory |
 |   | 18 Oct 2022 |  |  FALL BREAK NO CLASS |
-|   | 20 Oct 2022 | Kumar |  Introduction to Limited Feedback |
-|   | 25 Oct 2022 | Kumar |  UCB I |
+|  [15](./lectures/Lecture15_Oct20.pdf) | 20 Oct 2022 | Kumar |  Introduction to Limited Feedback |
+|  [16](./lectures/Lecture16_Oct25.pdf) | 25 Oct 2022 | Kumar |  UCB I |
 |   | 27 Oct 2022 | Wang |  UCB II |
 |   | 01 Nov 2022 | Wang | Bandit Lower Bounds |
 |   | 03 Nov 2022 | Abernethy |  EXP3  |

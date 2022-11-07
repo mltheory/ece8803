@@ -48,7 +48,7 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 |  [11](./lectures/Lecture11_Oct4.pdf)  | 04 Oct 2022 | Wang | Adaptive OCO I |
 | [12](./lectures/Lecture12_Oct6.pdf)  | 06 Oct 2022 | Wang | Adaptive OCO II + Online-to-Batch |
 | [13A - see 11.1](https://mltheory.github.io/CS7545/scribe/lec11.pdf), [13B - see 13.1](https://mltheory.github.io/CS7545/scribe/lec13.pdf)  | 11 Oct 2022 | Abernethy |  OCO Applications |
-|  [14 - see 9.1](https://mltheory.github.io/CS7545/scribe/lec9.pdf) | 13 Oct 2022 | Abernethy |  Game Theory |
+|  [14 - see 9.1](https://gatech.instructure.com/courses/278984/files/folder/Lectures?preview=36645441) | 13 Oct 2022 | Abernethy |  Game Theory |
 |   | 18 Oct 2022 |  |  FALL BREAK NO CLASS |
 |  [15](./lectures/Lecture15_Oct20.pdf) | 20 Oct 2022 | Kumar |  Introduction to Limited Feedback |
 |  [16](./lectures/Lecture16_Oct25.pdf) | 25 Oct 2022 | Kumar |  UCB I |

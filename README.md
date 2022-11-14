@@ -54,8 +54,8 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 |  [16](./lectures/Lecture16_Oct25.pdf) | 25 Oct 2022 | Kumar |  UCB I |
 |  [17](./lectures/Lecture17_Oct27.pdf) | 27 Oct 2022 | Wang |  UCB II |
 | [18](./lectures/Lecture18_Nov1.pdf)  | 01 Nov 2022 | Wang | UCB III and Lower Bounds |
-| (19)[https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf]  | 03 Nov 2022 | Abernethy |  EXP3  |
-| (20 - same)[https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf]  | 08 Nov 2022 | Abernethy |  EXP4  |
+| [19](https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf)  | 03 Nov 2022 | Abernethy |  EXP3  |
+| [20 - same](https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf)  | 08 Nov 2022 | Abernethy |  EXP4  |
 |   | 10 Nov 2022 | Wang |  Structured Bandits (GPs?) |
 |   | 15 Nov 2022 | Wang |  Contextual Bandits |
 |   | 17 Nov 2022 | Abernethy |  Reinforcement Learning |

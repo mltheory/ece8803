@@ -56,8 +56,8 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | [18](./lectures/Lecture18_Nov1.pdf)  | 01 Nov 2022 | Wang | UCB III and Lower Bounds |
 | [19](https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf)  | 03 Nov 2022 | Abernethy |  EXP3  |
 | [20 - same](https://inst.eecs.berkeley.edu/~ee290s/fa18/scribe_notes/EE290S_Lecture_Note_22.pdf)  | 08 Nov 2022 | Abernethy |  EXP4  |
-|   | 10 Nov 2022 | Wang |  Structured Bandits (GPs?) |
-|   | 15 Nov 2022 | Wang |  Contextual Bandits |
+|  [21](./lectures/Lecture21_Nov10.pdf) | 10 Nov 2022 | Wang |  Structured Bandits |
+|  [22](https://haipeng-luo.net/courses/CSCI699/lecture19.pdf) | 15 Nov 2022 | Wang |  Contextual Bandits |
 |   | 17 Nov 2022 | Abernethy |  Reinforcement Learning |
 |   | 22 Nov 2022 | Abernethy |  Reinforcement Learning |
 |   | 24 Nov 2022 |  |  THANKSGIVING NO CLASS |
@@ -72,8 +72,8 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | :------------: |:-------------: | :-------------: |  
 |[Homework 1](./hw/HW1.pdf) | 14 Sep | 4 Oct |    
 |[Homework 2](./hw/HW2.pdf), [ipynb](./hw/hw2.ipynb), [Answer](./hw/2-answer.zip), [Rubric](./hw/HW2-r.pdf) | 19 Oct | 11 Nov |     
-| [Homework 3](./hw/HW3.pdf) | 16 Nov | 23 Nov |     
-| Homework 4 | 30 Nov | 7 Dec |    
+| [Homework 3](./hw/HW3.pdf) | 16 Nov |  |     
+| Homework 4 | |  |    
 
 ### Project
 

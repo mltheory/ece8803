@@ -72,15 +72,15 @@ Please refer to [Vidya's course website](https://vmuthukumar.ece.gatech.edu/teac
 | :------------: |:-------------: | :-------------: |  
 |[Homework 1](./hw/HW1.pdf) | 14 Sep | 4 Oct |    
 |[Homework 2](./hw/HW2.pdf), [ipynb](./hw/hw2.ipynb), [Answer](./hw/2-answer.zip), [Rubric](./hw/HW2-r.pdf) | 19 Oct | 11 Nov |     
-| [Homework 3](./hw/HW3.pdf) | 16 Nov |  |     
-| [Homework 4](./hw/HW4.pdf) |  12 Dec |  |    
+| [Homework 3](./hw/HW3.pdf), [Answer](./hw/HW3-ans.pdf), [Rubric](./hw/HW3-r.pdf) | 16 Nov | 15 Dec |     
+| [Homework 4](./hw/HW4.pdf) |  15 Dec | N/A |    
 
 ### Project
 
 Please refer to the [Project Guidelines](https://gatech.instructure.com/courses/278984/files/folder/Project?preview=36589125) for full instructions.
 * Abstract is due on November 11 at 11:59pm
 * Poster presentation will be on December 6 in class
-* Project report will be due on December 16 at 11:59pm.
+* Project report will be due on December 15 at 11:59pm.
 
 
 
